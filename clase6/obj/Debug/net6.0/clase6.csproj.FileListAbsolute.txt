@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\clase6\clase6\bin\Debug\net6.0\clase6.exe
+C:\Users\Usuario\source\repos\clase6\clase6\bin\Debug\net6.0\clase6.deps.json
+C:\Users\Usuario\source\repos\clase6\clase6\bin\Debug\net6.0\clase6.runtimeconfig.json
+C:\Users\Usuario\source\repos\clase6\clase6\bin\Debug\net6.0\clase6.dll
+C:\Users\Usuario\source\repos\clase6\clase6\bin\Debug\net6.0\clase6.pdb
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.dll
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\refint\clase6.dll
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.pdb
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\clase6.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\clase6\clase6\obj\Debug\net6.0\ref\clase6.dll
