@@ -15,9 +15,19 @@ for (int i = 0; i < filas; i++)
         Console.WriteLine();
     for(int j = 0; j < columnas; j++)
     {
-        Console.Write($"Ingrese valor {j + 1} de columna{j + 1}: ");
+        Console.Write($"Ingrese valor de columna {j + 1}: ");
         int valor = int.Parse( Console.ReadLine());
         numeros[i,j] = valor;    
+    }
+    Console.WriteLine();
+}
+Console.WriteLine("Los valores son");
+for (int i = 0; i < filas; i++)
+{
+   for (int j = 0; j < columnas; j++)
+    {
+        Console.Write($"{numeros[i,j]:000}\t");
+     
     }
     Console.WriteLine();
 }
